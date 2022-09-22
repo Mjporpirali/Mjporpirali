@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mjporpirali
+- 👀 I’m interested in backend
+- 🌱 I’m currently learning python
